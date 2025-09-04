@@ -1,4 +1,5 @@
 QR Code Generator
+
 A simple Node.js command-line application that generates QR codes from user-provided URLs. The project uses inquirer for interactive prompts and qr-image to generate the QR code image.
 
 🚀 Features
